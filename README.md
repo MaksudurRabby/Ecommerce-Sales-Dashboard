@@ -64,3 +64,6 @@ Customer Targeting: Identify high-value customers for loyalty programs
 Inventory Planning: Understand top-selling categories and seasonal spikes
 Marketing Strategy: Promote high-profit sub-categories and best-selling states
 Payment Optimization: Focus on COD and UPI adoption trends
+
+
+credit- Rishabh Mishra ( https://youtu.be/6cV3OwFrOkk )
